@@ -1,6 +1,6 @@
 #%% [markdown]
 # # imports pandas and numpy
-# ## then says hello to course
+# ## then says hello
 
 #%%
 import pandas as pd
